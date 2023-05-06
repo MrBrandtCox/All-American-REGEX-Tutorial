@@ -1,4 +1,7 @@
 # **``All-American-REGEX-Tutorial``**
+[Link to the regex tutorial](https://gist.github.com/MrBrandtCox/46013867667218b62f3ac32bb76ec953#file-all-american-regex-tutorial-md)
+</br></br>
+
 
 ## **``Description``**
 This is a tutorial of how a specific regex (regular expression) functions by breaking down each part of the expression with an explanation of what it's doing.
