@@ -28,5 +28,8 @@ THEN I find a detailed explanation of what a specific component of the regex doe
 **4.** WHEN I reach the end of the tutorial </br>
 THEN I find a section about the author and a link to the author’s GitHub profile</br>
 
+## **``Mock-Up``**
+![](assets/mockupofgist.png)
+
 ## **``License``**
 [MIT](https://github.com/MrBrandtCox/All-American-REGEX-Tutorial/blob/main/LICENSE)
